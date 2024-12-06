@@ -1,7 +1,6 @@
 # Личный проект «Седона»
 
-* Студент: [Алина Полянская](https://up.htmlacademy.ru/univer-html1/2/user/2579803).
-* Наставник: [Алексей Самохвалов](https://htmlacademy.ru/profile/id1443429).
+
 
 ---
 
