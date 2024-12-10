@@ -3,12 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Главная страница</title>
+    <title>О нас</title>
     <link rel="stylesheet" href="styles/styles.css">
 </head>
 <body>
     <header>
-        <h1>Добро пожаловать на мой сайт</h1>
+        <h1>О нас</h1>
         <nav>
             <ul>
                 <li><a href="index.html">Главная</a></li>
@@ -18,8 +18,8 @@
         </nav>
     </header>
     <main>
-        <h2>Это ваша стартовая страница</h2>
-        <p>Здесь вы можете разместить информацию о вашем проекте.</p>
+        <h2>Информация о нас</h2>
+        <p>Здесь вы можете описать вашу команду и вашу миссию.</p>
     </main>
     <footer>
         <p>© 2023 Мой сайт</p>
